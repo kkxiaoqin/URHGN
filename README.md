@@ -45,7 +45,7 @@ URHGN/
 │
 ├── data/                       # Data directories
 │   ├── shp/                    # geospatial data
-│   └── csc/                    # csv data for convenience
+│   └── csv/                    # csv data for convenience
 │
 ├── models/                      # Trained models
 │
